@@ -8,7 +8,7 @@ This repository is for me to practice Time Series Forecasting. Refer to the Supp
 4. Stationarity
 5. ARMA
 6. ARIMA
-7. GARCH
+7. GAARCH
 8. Linear Regression
 9. Time-Series Linear Regression
 10. Train vs Test
